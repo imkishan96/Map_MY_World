@@ -9,8 +9,8 @@ clone the repository `Map_my_world` and **rename** it to `my_robot`.
 
 ```
 cd catkin_ws/src
-
-mv ~/catkin_ws/src/Where_Am_I ~/catkin_ws/src/my_robot
+git clone https://github.com/imkishan96/Map_MY_World.git
+mv ~/catkin_ws/src/Map_MY_World ~/catkin_ws/src/my_robot
 
 ```
 
